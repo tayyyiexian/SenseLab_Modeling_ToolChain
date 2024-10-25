@@ -1,14 +1,35 @@
 # Toolchain
 
-##Modeling Tool
-|No.      |  Publicatio        | Author    | Topic                           | Paper      |  Description/Keyword              | Remark        |
+## Modeling Tool
+|No.      |  Publication       | Author    | Topic                           | Paper      |  Description/Keyword              | Remark        |
 |-------- |-------------------|------------|-------------------------|------------------| --------------------|----------------|
-|    1    | IEEE Transaction 2018  | P. -Y. Chen, X. Peng and S. Yu   | NeuroSim: A Circuit-Level Macro Model for Benchmarking Neuro-Inspired Architectures in Online Learning | [Paper]([(https://ieeexplore.ieee.org/document/8246561)]) |                |          |
-|    2    | IEDM 2019              | X. Peng, S. Huang, Y. Luo, X. Sun and S. Yu   |  DNN+NeuroSim: An End-to-End Benchmarking Framework for Compute-in-Memory Accelerators with Versatile Device Technologies                  |  [Paper]([https://ieeexplore.ieee.org/document/8993491])        |             |          |
-|    3    | IEEE Transaction 2024  | J. Lee, A. Lu, W. Li and S. Yu        |NeuroSim V1.4: Extending Technology Support for Digital Compute-in-Memory Toward 1nm Node                     |[Paper]([https://ieeexplore.ieee.org/document/10443264])          |            |          |
+|    1    | IEEE Transaction 2018  | P. -Y. Chen, X. Peng and S. Yu   | NeuroSim: A Circuit-Level Macro Model for Benchmarking Neuro-Inspired Architectures in Online Learning | [Paper](https://ieeexplore.ieee.org/document/8246561) |                |          |
+|    2    | IEDM 2019              | X. Peng, S. Huang, Y. Luo, X. Sun and S. Yu   |  DNN+NeuroSim: An End-to-End Benchmarking Framework for Compute-in-Memory Accelerators with Versatile Device Technologies                  |  [Paper](https://ieeexplore.ieee.org/document/8993491)        |             |          |
+|    3    | IEEE Transaction 2024  | J. Lee, A. Lu, W. Li and S. Yu        |NeuroSim V1.4: Extending Technology Support for Digital Compute-in-Memory Toward 1nm Node                     |[Paper](https://ieeexplore.ieee.org/document/10443264)          |            |          |
 |    4    |            |                    |          |             |          |
 |    4    |            |                    |          |             |          |
 |    4    |            |                    |          |             |          |
+|    4    |            |                    |          |             |          |
+|    4    |            |                    |          |             |          |
+|    4    |            |                    |          |             |          |
+
+
+## Architecture NAS
+|No.      |  Publication       | Author    | Topic                           | Paper      |  Description/Keyword              | Remark        |
+|-------- |-------------------|------------|-------------------------|------------------| --------------------|----------------|
+|    1    |            |                    |          |             |          |
+|    2    |            |                    |          |             |          |
+|    3    |            |                    |          |             |          |
+|    4    |            |                    |          |             |          |
+|    5    |            |                    |          |             |          |
+
+
+## Hardware-and-Software Co-design
+|No.      |  Publication       | Author    | Topic                           | Paper      |  Description/Keyword              | Remark        |
+|-------- |-------------------|------------|-------------------------|------------------| --------------------|----------------|
+|    1    |            |                    |          |             |          |
+|    2    |            |                    |          |             |          |
+|    3    |            |                    |          |             |          |
 |    4    |            |                    |          |             |          |
 |    4    |            |                    |          |             |          |
 |    4    |            |                    |          |             |          |
