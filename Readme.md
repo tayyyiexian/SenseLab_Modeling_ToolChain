@@ -25,7 +25,7 @@
 |    2    | ICCD 2024     | Kam Chi Loong, Shihao Han, Sishuo Liu, Ning Lin, Zhongrui Wang| RNC: Efficient RRAM-aware NAS and Compilation for DNNs on Resource-Constrained Edge Devices |[Paper](https://arxiv.org/abs/2409.18841)| CIM,RRAM,Compiler,NAS|          |
 |    3    |  DATE 2022   |   J. Van Assche, R. Helsen and G. Gielen,                 |  EffiCSense: an Architectural Pathfinding Framework for Energy-Constrained Sensor Applications        |[Paper](https://ieeexplore.ieee.org/document/9774500)             | Systems architecture，Sensors   |          |
 |    4    | TCSI.2021      |   N. Callens and G. G. E. Gielen                 | Analysis and Comparison of Readout Architectures and Analog-to-Digital Converters for 3D-Stacked CMOS Image Sensors,         |[Paper](https://ieeexplore.ieee.org/document/9460755)             | CMOS image sensors,eadout architectures;analog-to-digital converters (ADCs)         |          |
-| 5|DAC 2024 |  Yiwei Zhao1, Ziyun Li2 et al.|Neural Architecture Search of Hybrid Models for NPU-CIM Heterogeneous AR/VR Devices|[Paper](https://arxiv.org/abs/2410.08326) | neural architecture search, compute-in-memory|          |
+| 5|DAC 2024 |  Yiwei Zhao, Ziyun Li et al.|Neural Architecture Search of Hybrid Models for NPU-CIM Heterogeneous AR/VR Devices|[Paper](https://arxiv.org/abs/2410.08326) | neural architecture search, compute-in-memory|          |
 
 
 ## Hardware-and-Software Co-design
