@@ -41,7 +41,7 @@
 |No.      |  Publication       | Author    | Topic                           | Link      |  Description/Keywords              | Remark        |
 |-------- |-------------------|------------|-------------------------|------------------| --------------------|----------------|
 |    1    | Nature Electron 2024    | Guo, Y., Yan, Z., Yu, X. et al   | Hardware design and the fairness of a neural network    | [Paper](https://www.nature.com/articles/s41928-024-01213-0#citeas)       |          |          |
-|    2    |            |                    |          |[Paper]()             |          |          |
+|    2    |TMC.2024            |  P. Dai, B. Han, K. Li, X. Xu, H. Xing and K. Liu                  |Joint Optimization of Device Placement and Model Partitioning for Cooperative DNN Inference in Heterogeneous Edge Computing,          |[Paper](https://ieeexplore.ieee.org/document/10675335/keywords#keywords)             | Computational modeling;Artificial neural networks         |          |
 |    3    |            |                    |          |[Paper]()             |          |          |
 |    4    |            |                    |          |[Paper]()             |          |          |
 
