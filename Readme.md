@@ -12,14 +12,12 @@
 |   7   | ASP-DAC 2025        | C. Wang, Z. Chen, S. Huang           | MICSim: A Modular Simulator for Mixed-signal Compute-in-Memory based AI Accelerator      |[Paper](https://arxiv.org/abs/2409.14838), [Source](https://github.com/MICSim-official/MICSim_V1.0)             |          |          |
 |    8  | ISCA'23           | T Ma, Y Feng, X Zhang, Y Zhu           | CAMJ: Enabling System-Level Energy Modeling and Architectural Exploration for In-Sensor Visual Computing         | [Paper](https://arxiv.org/abs/2304.03320), [Source](https://github.com/horizon-research/CamJ)            | Energy Modeling; CIS, Sensor           |          |
 |   9  | SPIE 2004           |                    | A simulation tool for evaluating digital camera image quality         |[Paper](https://web.stanford.edu/~wandell/data/papers/SPIE-2004-Simulator-5294-17.pdf), [Source](https://github.com/ISET/isetcam)             | Matlab, evaluation toolkit         | Application      |
-|    10   |            |                    |          |[Paper]()             |          |          |
 |    11    | TVLSI2019   | B. C. Lim and M. Horowitz | An Analog Model Template Library: Simplifying Chip-Level, Mixed-Signal Design Verification     |[Paper](https://ieeexplore.ieee.org/document/8495030/keywords#keywords)             | Template Model, Mixes-signal SoC, Verilog, Validation         |          |
 |    12   | ASP-DAC 2016      | R. Chen, Z. Shao, C. -L. Yang and Tao Li        | MCSSim: A Memory Channel Storage Simulator        |[Paper](https://ieeexplore.ieee.org/abstract/document/7428004)       | NVDIMM, memory channel storage technic, cycle-accurate simulator         |          |
 |    13   | ASP-DAC 2016      | Yizi Gu, Y. Liu, Y. Wang, H. Li and H. Yang     | NVPsim: A Simulator for Architecture Explorations of Nonvolatile Processors         |[Paper](https://ieeexplore.ieee.org/document/7428003)             | Nonvolatile Processor simulator, Performance& energy evaluation       |          |
 |   14 | SPIE 2004     | Joyce E. Farrella, Feng Xiaob, Peter B. Catryssec, Brian A. Wandellbc  | A simulation tool for evaluating digital camera image quality       ||    |          |
 |  15|TVLSI.2018 | JB. C. Lim and M. Horowitz | An Analog Model Template Library: Simplifying Chip-Level, Mixed-Signal Design Verification  |[Paper](https://ieeexplore.ieee.org/document/8495030) | mixed-signal system-on-chip (SoC),modeling   |          |
-|  16|TVLSI.2018 | JB. C. Lim and M. Horowitz | An Analog Model Template Library: Simplifying Chip-Level, Mixed-Signal Design Verification  |[Paper](https://ieeexplore.ieee.org/document/8495030) | mixed-signal system-on-chip (SoC),modeling   |          |
-
+| 16|PACT 2024 | Park, Juseong and Kim, Boseok and Sung, Hyojin| NavCim: Comprehensive Design Space Exploration for Analog Computing-in-Memory Architectures |[Paper](https://dl.acm.org/doi/10.1145/3656019.3676946) | NeuroSim,CrossSim,BookSim |          |
 ## Architecture NAS
 |No.      |  Publication       | Author    | Topic                           | Link      |  Description/Keywords              | Remark        |
 |-------- |-------------------|------------|-------------------------|------------------| --------------------|----------------|
@@ -27,7 +25,7 @@
 |    2    | ICCD 2024     | Kam Chi Loong, Shihao Han, Sishuo Liu, Ning Lin, Zhongrui Wang| RNC: Efficient RRAM-aware NAS and Compilation for DNNs on Resource-Constrained Edge Devices |[Paper](https://arxiv.org/abs/2409.18841)| CIM,RRAM,Compiler,NAS|          |
 |    3    |  DATE 2022   |   J. Van Assche, R. Helsen and G. Gielen,                 |  EffiCSense: an Architectural Pathfinding Framework for Energy-Constrained Sensor Applications        |[Paper](https://ieeexplore.ieee.org/document/9774500)             | Systems architecture，Sensors   |          |
 |    4    | TCSI.2021      |   N. Callens and G. G. E. Gielen                 | Analysis and Comparison of Readout Architectures and Analog-to-Digital Converters for 3D-Stacked CMOS Image Sensors,         |[Paper](https://ieeexplore.ieee.org/document/9460755)             | CMOS image sensors,eadout architectures;analog-to-digital converters (ADCs)         |          |
-|  5|PACT 2024 | Park, Juseong and Kim, Boseok and Sung, Hyojin| NavCim: Comprehensive Design Space Exploration for Analog Computing-in-Memory Architectures |[Paper](https://dl.acm.org/doi/10.1145/3656019.3676946) | Computing-in-Memory Architectures  |          |
+| 5|DAC 2024 |  Yiwei Zhao1, Ziyun Li2 et al.|Neural Architecture Search of Hybrid Models for NPU-CIM Heterogeneous AR/VR Devices|[Paper](https://arxiv.org/abs/2410.08326) | neural architecture search, compute-in-memory|          |
 
 
 ## Hardware-and-Software Co-design
