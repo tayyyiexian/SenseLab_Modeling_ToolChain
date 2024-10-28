@@ -16,14 +16,14 @@
 |    6    | TVLSI2019   | B. C. Lim and M. Horowitz | An Analog Model Template Library: Simplifying Chip-Level, Mixed-Signal Design Verification     |[Paper](https://ieeexplore.ieee.org/document/8495030/keywords#keywords)             | Template Model, Mixes-signal SoC, Verilog, Validation         |          |
 |    7    | ASP-DAC 2016      | R. Chen, Z. Shao, C. -L. Yang and Tao Li        | MCSSim: A Memory Channel Storage Simulator        |[Paper](https://ieeexplore.ieee.org/abstract/document/7428004)       | NVDIMM, memory channel storage technic, cycle-accurate simulator         |          |
 |    8    | ASP-DAC 2016      | Yizi Gu, Y. Liu, Y. Wang, H. Li and H. Yang     | NVPsim: A Simulator for Architecture Explorations of Nonvolatile Processors         |[Paper](https://ieeexplore.ieee.org/document/7428003)             | Nonvolatile Processor simulator, Performance& energy evaluation       |          |
-
-
+|    9   | SPIE 2004     | Joyce E. Farrella, Feng Xiaob, Peter B. Catryssec, Brian A. Wandellbc  | A simulation tool for evaluating digital camera image quality       |[Paper]|    |          |
 ## Architecture NAS
 |No.      |  Publication       | Author    | Topic                           | Link      |  Description/Keywords              | Remark        |
 |-------- |-------------------|------------|-------------------------|------------------| --------------------|----------------|
 |    1    | DAC2023    |  J. Chen et al.     | AutoDCIM: An Automated Digital CIM Compiler    | [Paper](https://ieeexplore.ieee.org/document/10247976)             | EDA, Layout Optimization, Template-based Generation         |          |
-|    2    |            |                    |          |[Paper]()             |          |          |
-|    3    |            |                    |          |[Paper]()             |          |          |
+|    9    | ICCD 2024     | Kam Chi Loong, Shihao Han, Sishuo Liu, Ning Lin, Zhongrui Wang| RNC: Efficient RRAM-aware NAS and Compilation for DNNs on Resource-Constrained Edge Devices |[Paper](https://arxiv.org/abs/2409.18841)| CIM,RRAM,Compiler,NAS|          |
+|    2    |  DATE 2022   |   J. Van Assche, R. Helsen and G. Gielen,                 |  EffiCSense: an Architectural Pathfinding Framework for Energy-Constrained Sensor Applications        |[Paper](https://ieeexplore.ieee.org/document/9774500)             | Systems architecture，Sensors   |          |
+|    3    | TCSI.2021      |   N. Callens and G. G. E. Gielen                 | Analysis and Comparison of Readout Architectures and Analog-to-Digital Converters for 3D-Stacked CMOS Image Sensors,         |[Paper](https://ieeexplore.ieee.org/document/9460755)             | CMOS image sensors,eadout architectures;analog-to-digital converters (ADCs)         |          |
 |    4    |            |                    |          |[Paper]()             |          |          |
 
 
@@ -36,12 +36,13 @@
 |    4    |            |                    |          |[Paper]()             |          |          |
 |    5    |  ICICM 2023     |   K. Xu et al.       | An Automated Deployment with Reconfigurable Digital Controller for SRAM-based Computation-in-Memory          |[Paper](https://ieeexplore.ieee.org/document/10365985)     | Deployment Strategy, CIM,         |          |
 |    5    |  ACM 2024       |   X. Gao et al.      | Static Scheduling of Weight Programming for DNN Acceleration with Resource Constrained PIM         |[Paper](https://ieeexplore.ieee.org/document/10365985)             | Deployment Strategy,         |          |
+|    6    | Sci. China 2024    |Han, S., Liu, S., Du, S. et al. |  CMN: a co-designed neural architecture search for efficient computing-in-memory-based mixture-of-experts|[Paper](https://link.springer.com/article/10.1007/s11432-024-4144-y#citeas)| mixture-of-experts,computing-in-memory,neural architecture search|          |
 
 ## Others
 |No.      |  Publication       | Author    | Topic                           | Link      |  Description/Keywords              | Remark        |
 |-------- |-------------------|------------|-------------------------|------------------| --------------------|----------------|
 |    1    | Nature Electron 2024    | Guo, Y., Yan, Z., Yu, X. et al   | Hardware design and the fairness of a neural network    | [Paper](https://www.nature.com/articles/s41928-024-01213-0#citeas)       |          |          |
-|    2    |TMC.2024            |  P. Dai, B. Han, K. Li, X. Xu, H. Xing and K. Liu                  |Joint Optimization of Device Placement and Model Partitioning for Cooperative DNN Inference in Heterogeneous Edge Computing,          |[Paper](https://ieeexplore.ieee.org/document/10675335/keywords#keywords)             | Computational modeling;Artificial neural networks         |          |
+|    2    |TMC 2024            |  P. Dai, B. Han, K. Li, X. Xu, H. Xing and K. Liu                  |Joint Optimization of Device Placement and Model Partitioning for Cooperative DNN Inference in Heterogeneous Edge Computing,          |[Paper](https://ieeexplore.ieee.org/document/10675335/keywords#keywords)             | Computational modeling;Artificial neural networks         |          |
 |    3    |            |                    |          |[Paper]()             |          |          |
 |    4    |            |                    |          |[Paper]()             |          |          |
 
