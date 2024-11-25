@@ -18,6 +18,14 @@
 |    13   | ASP-DAC 2016      | Yizi Gu, Y. Liu, Y. Wang, H. Li and H. Yang     | NVPsim: A Simulator for Architecture Explorations of Nonvolatile Processors         |[Paper](https://ieeexplore.ieee.org/document/7428003)             | Nonvolatile Processor simulator, Performance& energy evaluation       |          |
 |  14     |TVLSI.2018 | JB. C. Lim and M. Horowitz | An Analog Model Template Library: Simplifying Chip-Level, Mixed-Signal Design Verification  |[Paper](https://ieeexplore.ieee.org/document/8495030) | mixed-signal system-on-chip (SoC),modeling   |          |
 | 15      |PACT 2024 | Park, Juseong and Kim, Boseok and Sung, Hyojin| NavCim: Comprehensive Design Space Exploration for Analog Computing-in-Memory Architectures |[Paper](https://dl.acm.org/doi/10.1145/3656019.3676946) | NeuroSim,CrossSim,BookSim |          |
+| 16      |Micromachines 2023 | Hu, H. et al.| Simulation of a Fully Digital Computing-in-Memory for Non-Volatile Memory for Artificial Intelligence Edge Applications |[Paper](https://www.mdpi.com/2072-666X/14/6/1175) | CIM, digital NOR-flash, compressed LUT multiplier |          |
+| 17      | SAMOS 2020 | BanaGozar, A., Vadivel, K., Multanen, J., Jääskeläinen, P., Stuijk, S., Corporaal, H.| System Simulation of Memristor Based Computation in Memory Platforms |[Paper](https://link.springer.com/chapter/10.1007/978-3-030-60939-9_11) | System Simulation, cycle-accurate, analog memristor crossbar and co-processing digital elements |          |
+| 18      | SCOPES 2019 | BanaGozar et al. | CIM-SIM: Computation In Memory SIMuIator |[Paper](https://dl.acm.org/doi/10.1145/3323439.3323989) | SystemC, emerging NVM |         |
+| 19      | AICAS 2021 | M. J. Rasch et al. | A Flexible and Fast PyTorch Toolkit for Simulating Training and Inference on Analog Crossbar Arrays |[Paper](https://ieeexplore.ieee.org/document/9458494) | Analog Tile, on-chip training and inference  |         |
+| 20      | AICAS 2021 | M. Fritscher, J. Knödtel, M. Reichenbach and D. Fey | Simulating Memristive Systems in Mixed-Signal Mode using Commercial Design Tools |[Paper](https://ieeexplore.ieee.org/document/8964856) [Code](https://github.com/IBM/aihwkit) | different level of hardware astraction, mixed-signal simulation  |         |
+
+
+
 ## Architecture NAS
 |No.      |  Publication       | Author    | Topic                           | Link      |  Description/Keywords              | Remark        |
 |-------- |-------------------|------------|-------------------------|------------------| --------------------|----------------|
