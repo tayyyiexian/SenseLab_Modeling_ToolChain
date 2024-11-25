@@ -45,6 +45,8 @@
 |    3    |  TCAD 2022         | F. Tu et al.                   | SDP: Co-Designing Algorithm, Dataflow, and Architecture for In-SRAM Sparse NN Acceleration          |[Paper](https://ieeexplore.ieee.org/document/9768124)             | Digital PIM, NN, Sparsity Weight, SRAM         |          |
 |    4    |  ICICM 2023     |   K. Xu et al.       | An Automated Deployment with Reconfigurable Digital Controller for SRAM-based Computation-in-Memory          |[Paper](https://ieeexplore.ieee.org/document/10365985)     | Deployment Strategy, CIM,         |          |
 |    5    |  ACM 2024       |   X. Gao et al.      | Static Scheduling of Weight Programming for DNN Acceleration with Resource Constrained PIM         |[Paper](https://ieeexplore.ieee.org/document/10365985)             | Deployment Strategy,         |          |
+|    6    |  ICCAD 2023       |   J. Park, Y. Shin and H. Sung      | Multi-Objective Architecture Search and Optimization for Heterogeneous Neuromorphic Architecture         |[Paper](https://ieeexplore.ieee.org/document/10365985)             |          |  Ref：✅         |
+
 
 
 ## Others
