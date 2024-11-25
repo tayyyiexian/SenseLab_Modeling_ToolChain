@@ -22,7 +22,7 @@
 | 17      | SAMOS 2020 | BanaGozar, A., Vadivel, K., Multanen, J., Jääskeläinen, P., Stuijk, S., Corporaal, H.| System Simulation of Memristor Based Computation in Memory Platforms |[Paper](https://link.springer.com/chapter/10.1007/978-3-030-60939-9_11) | System Simulation, cycle-accurate, analog memristor crossbar and co-processing digital elements |          |
 | 18      | SCOPES 2019 | BanaGozar et al. | CIM-SIM: Computation In Memory SIMuIator |[Paper](https://dl.acm.org/doi/10.1145/3323439.3323989) | SystemC, emerging NVM |         |
 | 19      | AICAS 2021 | M. J. Rasch et al. | A Flexible and Fast PyTorch Toolkit for Simulating Training and Inference on Analog Crossbar Arrays |[Paper](https://ieeexplore.ieee.org/document/9458494) | Analog Tile, on-chip training and inference  |         |
-| 20      | AICAS 2021 | M. Fritscher, J. Knödtel, M. Reichenbach and D. Fey | Simulating Memristive Systems in Mixed-Signal Mode using Commercial Design Tools |[Paper](https://ieeexplore.ieee.org/document/8964856) [Code](https://github.com/IBM/aihwkit) | different level of hardware astraction, mixed-signal simulation  |         |
+| 20      | AICAS 2021 | M. Fritscher, J. Knödtel, M. Reichenbach and D. Fey | Simulating Memristive Systems in Mixed-Signal Mode using Commercial Design Tools |[Paper](https://ieeexplore.ieee.org/document/8964856) [Source](https://github.com/IBM/aihwkit) | different level of hardware abstraction, mixed-signal simulation  |         |
 
 
 
